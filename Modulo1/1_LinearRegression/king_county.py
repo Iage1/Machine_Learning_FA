@@ -2,7 +2,6 @@
 
 import sklearn
 import pandas as pd
-import numpy as np
 
 KC_CSV_PATH = 'C:/Users/Iagê/Desktop/MLPy/Modulo1/1_RegressãoLinear/kc_house_data.csv'
 
